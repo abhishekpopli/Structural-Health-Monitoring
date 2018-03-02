@@ -1,6 +1,6 @@
 # Structural-Health-Monitoring
-Python - Matlab project for offshore ocean structures
-One of my projects done in summer internship at IIT Madras in June-July 2017
+Python - Matlab project for offshore ocean structures.<br />
+**One of my projects done in summer internship at IIT Madras in June-July 2017**
 <br /><br />
 **Structural Health Monitoring or Conditional Monitoring** refers to digitally monitoring the conditions of the structure. Its goal is predictive maintenance i.e., detecting and warning about any fault or machine failures with sufficient accuracy to enable repair before breakdown.<br />
 To achieve this, sensor data is collected from the structure/vehicle and transferred to the desired computer for analyzing the conditions. The sensor data was stored in the SQL Database on the web server which leads to analyze the past conditions of the structure also.<br /><br />
